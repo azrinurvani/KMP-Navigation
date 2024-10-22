@@ -1,5 +1,12 @@
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
+This APP include : 
+1. Implementation of Tab Screen
+2. Implementation of Bottom Navigation Bar
+3. Drawer Implementation
+4. Simple Modal Bottom Sheet
+5. Simple Dialog
+   
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
   - `commonMain` is for code that’s common for all targets.
